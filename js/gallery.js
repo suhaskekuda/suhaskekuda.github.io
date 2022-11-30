@@ -1,9 +1,15 @@
 xgallery_images = [
  {
-    url: "https://assets.codepen.io/1692350/1.png",
-    prompt: "futuristic jungle city in an aquarium on a vintage table, detailed water, water bubbles, fish, octane, 3d render, cinema4d, hdr, global illumination, ambient occolusion, highly detailed, 8k",
-    date: "08.11.2022",
-    tags: "abstract"
+    url: "images/photography/p1.jpeg",
+    prompt: "Just as one candle lights another and can light thousands of other candles, so one heart illuminates another heart and can illuminate thousands of other hearts.",
+    date: "",
+    tags: "Lamp"
+  },
+  {
+    url: "images/photography/p2.jpeg",
+    prompt: "All I need is a good dose of vitamin sea",
+    date: "",
+    tags: "Kodi beach"
   }
 ];
 
