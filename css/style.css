@@ -7787,6 +7787,10 @@ button.bg-dark:focus {
   text-justify: inter-word;
 }
 
+.hide{
+  display: none !important;
+}
+
 .text-justify {
   text-align: justify !important; }
 
