@@ -8535,8 +8535,7 @@ h1, h2, h3, h4, h5,
       color: #000000; }
   .practice-area:hover .icon, .practice-area:focus .icon {
     background: #fff; }
-    .practice-area:hover .icon span, .practice-area:focus .icon span {
-      color: #000000; }
+   
 
 .case {
   height: 300px;
