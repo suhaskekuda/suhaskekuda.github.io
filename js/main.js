@@ -242,9 +242,6 @@
 		$(".smoothscroll[href^='#'], #ftco-nav ul li a[href^='#']").on('click', function(e) {
 		 	e.preventDefault();
 
-			$(".nav-item").removeClass("active");
-			$(this).parent().addClass("active")
-
 		 	var hash = this.hash,
 		 			navToggler = $('.navbar-toggler');
 		 	$('html, body').animate({
